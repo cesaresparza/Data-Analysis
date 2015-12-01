@@ -1,1 +1,2 @@
-# Data-Analysis
+I am currently taking an online course called **''Data analysis and interpretation''** from [Coursera.org](http://coursera.org). For this reason I will be sharing some cool things I learn during the course. Some of the most interesting things will be learning to use **Python** for data analysis, I will also be using **SAS Studio**. Instructions for setting up these two for data analysis purposes will be the first thing you will learn while following this repository. 
+*Hope it suits you well!*
